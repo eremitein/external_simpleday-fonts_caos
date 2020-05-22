@@ -20,6 +20,4 @@ PRODUCT_PACKAGES := \
     SimpleDay-BoldItalic.ttf \
     SimpleDay-Bold.ttf \
     SimpleDay-Italic.ttf \
-    SimpleDay-MediumItalic.ttf \
-    SimpleDay-Medium.ttf \
-    SimpleDay-Regular.ttf \
+    SimpleDay-Regular.ttf

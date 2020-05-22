@@ -60,9 +60,7 @@ else # !MINIMAL_FONT
 font_src_files += \
     SimpleDay-Bold.ttf \
     SimpleDay-BoldItalic.ttf \
-    SimpleDay-Italic.ttf \
-    SimpleDay-Medium.ttf \
-    SimpleDay-MediumItalic.ttf \
+    SimpleDay-Italic.ttf
 
 endif # !MINIMAL_FONT
 
